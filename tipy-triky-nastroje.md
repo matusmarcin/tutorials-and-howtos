@@ -13,6 +13,7 @@ Zoznam nie je ani zďaleka kompletný, no priebežne ho dopĺňam. Ak máte neja
 
 * [unsplash.com](http://unsplash.com)
 * [compfight.com](http://compfight.com)
+* [Canva](http://canva.com/)
 
 ## Práca a kolaborácia
 
@@ -37,6 +38,8 @@ Platené, miestami free trial:
 * [webrebel](http://webrebel.sk/) - slovenské video tutoriály!
 * [treehouse](https://teamtreehouse.com/)
 * [lynda](http://www.lynda.com/)
+
+Prednášky z [WebExpo 2015](http://slideslive.com/webexpo/webexpo-2015)
 
 Knihy zdarma:
 
@@ -66,3 +69,6 @@ Knihy zdarma:
 * Node.js - hlavne kvôli `npm`
 * [Markdown](http://daringfireball.net/projects/markdown/syntax) - zjednodušený formátovací jazyk, v ktorom je písaný tento dokument
 
+## Bonus a špeciality
+
+* [CSS vtipy](http://saijogeorge.com/css-puns/)
