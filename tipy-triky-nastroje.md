@@ -41,6 +41,11 @@ Platené, miestami free trial:
 
 Prednášky z [WebExpo 2015](http://slideslive.com/webexpo/webexpo-2015)
 
+Články a blogy:
+
+* [CSS Tricks](https://css-tricks.com/)
+* [Code guide by @mdo](http://mdo.github.io/code-guide/)
+
 Knihy zdarma:
 
 * [eloquent javascript](http://eloquentjavascript.net/)
