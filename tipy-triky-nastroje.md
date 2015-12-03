@@ -64,4 +64,5 @@ Knihy zdarma:
 * Gulp/Grunt
 * Bower
 * Node.js - hlavne kvôli `npm`
+* [Markdown](http://daringfireball.net/projects/markdown/syntax) - zjednodušený formátovací jazyk, v ktorom je písaný tento dokument
 
