@@ -55,7 +55,7 @@ Knihy zdarma:
 
 ## Čo sa ďalej naučiť
 
-* SASS
+* [SASS](http://sass-lang.com/)
 * viac Javascriptu
 * [Foundation](http://foundation.zurb.com/) namiesto Bootstrap
 * Gulp/Grunt
