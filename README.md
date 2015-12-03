@@ -1,5 +1,4 @@
-# Tutorials and how to's
-# Tutoriály a návody
+# Tutorials and how to's // Tutoriály a návody
 
 This repo contains misc tutorials and how to's. Mostly for web developers. Continually updated. 
 
