@@ -46,7 +46,10 @@ Knihy zdarma:
 
 ## UX
 
-* ? Musím doplniť.
+* [Julesove UXthis!](http://www.uxthis.sk/)
+* [GoodUI](http://goodui.org/)
+* Kniha musí byť: [Don't Make Me Think od Steve Krug](http://www.martinus.sk/?uItem=189253&z=9ATY82&utm_source=z%3D9ATY82&utm_medium=url&utm_campaign=partner)
+
 
 ## Hosting
 
