@@ -6,13 +6,13 @@ Zoznam nie je ani zďaleka kompletný, no priebežne ho dopĺňam. Ak máte neja
 
 ## Šablóny
 
-* [themeforest.com] - platené, no veľmi dobré
-* [html5up.net] - pekné čisté HTML5 šablóny zdarma
+* [themeforest.com](http://themeforest.com) - platené, no veľmi dobré
+* [html5up.net](http://html5up.net) - pekné čisté HTML5 šablóny zdarma
 
 ## Fotky
 
-* [unsplash.com]
-* [compfight.com]
+* [unsplash.com](http://unsplash.com)
+* [compfight.com](http://compfight.com)
 
 ## Práca a kolaborácia
 
@@ -43,6 +43,10 @@ Knihy zdarma:
 * [eloquent javascript](http://eloquentjavascript.net/)
 * [Getting Real](https://gettingreal.37signals.com/) by 37 Signals / Basecamp
 * [Playbook](http://playbook.thoughtbot.com/) a [Guides](https://github.com/thoughtbot/guides) by Thoughbot
+
+## UX
+
+* ? Musím doplniť.
 
 ## Hosting
 
