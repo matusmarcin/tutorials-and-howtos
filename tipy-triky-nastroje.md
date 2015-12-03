@@ -77,3 +77,19 @@ Knihy zdarma:
 ## Bonus a špeciality
 
 * [CSS vtipy](http://saijogeorge.com/css-puns/)
+
+## Moje obľúbené podcasty
+
+* [StartUp](https://gimletmedia.com/show/startup/)
+* [The Complete Guide To Everything](http://tcgte.com/)
+* [Beyond the To Do List](http://beyondthetodolist.com/)
+* [Question of the Day](http://www.earwolf.com/show/question-of-the-day/)
+* [Accidental Creative](https://www.accidentalcreative.com/)
+* [The EntreLeadership Podcast](https://www.entreleadership.com/posts.podcast)
+* [Bizcraft](http://unmatchedstyle.com/bizcraft) - tento je naozaj o weboch a spol.
+* [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/) nemôžem vynechať
+
+Tak trochu v tejto kategórii osobného rozvoja a udržania duševného zdravia:
+
+* [Spotify](https://www.spotify.com/sk/)
+* [Audible](http://audible.com)
