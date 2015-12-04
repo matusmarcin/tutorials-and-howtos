@@ -14,6 +14,7 @@ Zoznam nie je ani zďaleka kompletný, no priebežne ho dopĺňam. Ak máte neja
 * [unsplash.com](http://unsplash.com)
 * [compfight.com](http://compfight.com)
 * [Canva](http://canva.com/)
+* [Pixlr](http://pixlr.com)
 
 ## Práca a kolaborácia
 
