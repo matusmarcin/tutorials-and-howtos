@@ -18,7 +18,7 @@ Zoznam nie je ani zďaleka kompletný, no priebežne ho dopĺňam. Ak máte neja
 
 ## Práca a kolaborácia
 
-* [Atom]() alternatíva k Sublime Text - postavené na webových technológiách, žerie viac pamäte
+* [Atom](https://atom.io/) alternatíva k Sublime Text - postavené na webových technológiách, žerie viac pamäte
 * [GitHub](http://github.com) (alebo aj [BitBucket](http://bitbucket.com)) + napr. [SourceTree](https://www.sourcetreeapp.com/) alebo [GitHub Desktop](https://desktop.github.com/) alebo `git` v príkazovom riadku
 * [Trello](http://trello.com) - kolaborácia, plánovanie a organizácia projektov
 * [Toggle](http://toggle.com) - trackovanie času, reporting
