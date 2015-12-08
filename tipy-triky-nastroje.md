@@ -24,6 +24,7 @@ Zoznam nie je ani zďaleka kompletný, no priebežne ho dopĺňam. Ak máte neja
 * [Toggle](http://toggle.com) - trackovanie času, reporting
 * [Slack](http://slack.com) - komunikačný nástroj pre teamy
 * [SuperFaktúra](http://www.superfaktura.sk/#1q0txdb8dsiuvm3o) - aj fakturovať treba
+* [Coffitivity](https://coffitivity.com/) - príjemný hluk kaviarne, ak máte doma príliš ticho - výskum potvrdzuje
 * Bonus: [vim](http://www.vim.org/download.php) - ak ste veľký frajeri a Atom sa vám zdá príliš farebný
 
 ## Tutoriály a učenie sa
