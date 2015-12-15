@@ -58,7 +58,7 @@ Knihy zdarma:
 
 * [Julesove UXthis!](http://www.uxthis.sk/)
 * [GoodUI](http://goodui.org/)
-* Kniha musí byť: [Don't Make Me Think od Steve Krug](http://www.martinus.sk/?uItem=189253&z=9ATY82&utm_source=z%3D9ATY82&utm_medium=url&utm_campaign=partner)
+* Kniha musí byť: Don't Make Me Think od Steve Krug - [Martinus](http://www.martinus.sk/?uItem=189253&z=9ATY82&utm_source=z%3D9ATY82&utm_medium=url&utm_campaign=partner) alebo [Bookdepository](http://www.bookdepository.com/Don-t-Make-Me-Think/9780321965516?a_aid=minutka)
 
 
 ## Hosting
