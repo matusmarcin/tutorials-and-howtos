@@ -73,8 +73,9 @@ Knihy zdarma:
 * [Foundation](http://foundation.zurb.com/) namiesto Bootstrap
 * Gulp/Grunt
 * Bower
-* Node.js - hlavne kvôli `npm`
+* Node.js - aj kvôli `npm`
 * [Markdown](http://daringfireball.net/projects/markdown/syntax) - zjednodušený formátovací jazyk, v ktorom je písaný tento dokument
+* **[Git](https://github.com/matusmarcin/git-training)!**
 
 ## Bonus a špeciality
 
