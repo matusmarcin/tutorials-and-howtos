@@ -94,6 +94,8 @@ Knihy zdarma:
 * [Bizcraft](http://unmatchedstyle.com/bizcraft) - tento je naozaj o weboch a spol.
 * [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/) nemôžem vynechať
 
+Jeden naozaj technický: [Software Engineering Daily](http://softwareengineeringdaily.com/)
+
 Tak trochu v tejto kategórii osobného rozvoja a udržania duševného zdravia:
 
 * [Spotify](https://www.spotify.com/sk/)
