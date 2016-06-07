@@ -69,7 +69,8 @@ Knihy zdarma:
 ## Čo sa ďalej naučiť
 
 * [SASS](http://sass-lang.com/)
-* viac Javascriptu
+* viac Javascriptu - JS bez jQuery, [ES6](https://github.com/DrkSephy/es6-cheatsheet)
+* [React.js](https://egghead.io/courses/react-fundamentals) - link sú videá zdarma na Egghead.io
 * [Foundation](http://foundation.zurb.com/) namiesto Bootstrap
 * Gulp/Grunt
 * Bower
@@ -80,6 +81,7 @@ Knihy zdarma:
 ## Bonus a špeciality
 
 * [CSS vtipy](http://saijogeorge.com/css-puns/)
+* [An Illustrated Book of Bad Arguments](https://bookofbadarguments.com/)
 
 ## Moje obľúbené podcasty
 
