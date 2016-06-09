@@ -78,6 +78,8 @@ Knihy zdarma:
 * [Markdown](http://daringfireball.net/projects/markdown/syntax) - zjednodušený formátovací jazyk, v ktorom je písaný tento dokument
 * **[Git](https://github.com/matusmarcin/git-training)!**
 
+Viaceré z vyššie menovaných sa nachádzajú práve v [Google Web Starter Kit-e](https://github.com/google/web-starter-kit) a bonusom sú cool featury ako live reloading a vstavaný HTTP server (nepotrebujete WAMP).
+
 ## Bonus a špeciality
 
 * [CSS vtipy](http://saijogeorge.com/css-puns/)
